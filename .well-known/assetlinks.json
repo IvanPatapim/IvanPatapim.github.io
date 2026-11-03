@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ivanpatapim.twa",
+        "sha256_cert_fingerprints": ["73:A8:87:01:86:3C:D5:66:9F:25:D5:58:E5:27:38:05:53:E7:77:6D:51:2D:E6:CF:B7:0D:44:67:93:83:A4:5C"]
+      }
+    }]
